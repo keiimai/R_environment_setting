@@ -10,6 +10,8 @@ r_docker_project/
 
 ├── Dockerfile
 
+├── R-versions
+
 ├── README.md
 
 ├── renv.lock
