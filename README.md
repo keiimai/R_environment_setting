@@ -12,6 +12,8 @@ r_docker_project/
 
 ├── .Rprofile
 
+├── renv.lock
+
 └── requirements.txt
 
 # 【実行方法】
