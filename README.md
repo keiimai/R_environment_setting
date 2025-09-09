@@ -4,13 +4,13 @@ This repository created by Kei Imai, RN, MSN.
 # 【格納されているファイルの説明】
 r_docker_project/
 
-├── Dockerfile
+├── .Rprofile
 
 ├── .gitignore
 
-├── README.md
+├── Dockerfile
 
-├── .Rprofile
+├── README.md
 
 ├── renv.lock
 
